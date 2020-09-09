@@ -4,7 +4,7 @@ library(reshape2)
 library(ggplot2)
 
 
-## phase 1
+## Condition 1
 
 data = merged_df_1[c('USER','IFPRED','PREDMATCH','DATASET')]
 data = data[data$IFPRED!="PREDNO",]   ## exclude cases without prediction
@@ -20,15 +20,17 @@ for (user in unique(count_by_user$USER)) {
 
 count_data$percent = count_data$count / count_data$total * 100
 count_by_predmatch = data.frame(count_data %>% group_by(PREDMATCH) %>% summarise(normalized_frequency = mean(percent)))
+CI_by_predmatch = data.frame(count_data %>% group_by(PREDMATCH) %>% summarise(normalized_CI = sd(percent)*1.96/sqrt(12)))
 
+count_by_predmatch$CI = CI_by_predmatch$normalized_CI
 count_by_predmatch = count_by_predmatch[order(-count_by_predmatch$normalized_frequency),]
 count_by_predmatch$PREDMATCH <- factor(count_by_predmatch$PREDMATCH,levels = count_by_predmatch$PREDMATCH)
 
 count_by_predmatch_1 <- count_by_predmatch
-count_by_predmatch_1$phase = "Prediction"
+count_by_predmatch_1$Condition = "P"
 
 
-## phase 2
+## Condition 2
 data = merged_df_2[c('USER','IFPRED','PREDMATCH','DATASET')]
 data = data[data$IFPRED!="PREDNO",]   ## exclude cases without prediction
 
@@ -43,17 +45,31 @@ for (user in unique(count_by_user$USER)) {
 
 count_data$percent = count_data$count / count_data$total * 100
 count_by_predmatch = data.frame(count_data %>% group_by(PREDMATCH) %>% summarise(normalized_frequency = mean(percent)))
+CI_by_predmatch = data.frame(count_data %>% group_by(PREDMATCH) %>% summarise(normalized_CI = sd(percent)*1.96/sqrt(12)))
 
+count_by_predmatch$CI = CI_by_predmatch$normalized_CI
 count_by_predmatch = count_by_predmatch[order(-count_by_predmatch$normalized_frequency),]
 count_by_predmatch$PREDMATCH <- factor(count_by_predmatch$PREDMATCH,levels = count_by_predmatch$PREDMATCH)
 
 count_by_predmatch_2 <- count_by_predmatch
-count_by_predmatch_2$phase = "No Prediction"
+count_by_predmatch_2$Condition = "S"
 
 
 count_by_predmatch_all = rbind(count_by_predmatch_1,count_by_predmatch_2)
 
-p <- ggplot(count_by_predmatch_all, aes(x=PREDMATCH, y=normalized_frequency, fill=phase)) + 
-  geom_bar(stat="identity", position=position_dodge()) +theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
 
-p + scale_fill_brewer(palette="Paired") 
+ggplot(count_by_predmatch_all, aes(x=c("Not Match", "Accurate", "Moderate", "None", "Accurate", "Moderate", "Not Match", "None"), y=normalized_frequency, fill=Condition)) + 
+  geom_bar(stat="identity", position=position_dodge(),color="black", width =0.6) +
+  geom_errorbar(aes(ymin=normalized_frequency-CI, ymax=normalized_frequency+CI), width=.2, position=position_dodge(0.6)) +
+  scale_fill_manual(values=c("#edb89f","#9fcbed")) +
+  ylab("% of Queries") +
+  xlab("Matching Justification") +
+  theme_minimal() +
+  theme(plot.title = element_text(color="black", size=12, face="bold.italic"),
+      axis.title.x = element_text(color="black", size=14),
+      axis.title.y = element_text(color="black", size=14),
+      axis.text=element_text(size=12))  +
+  theme(axis.text.x = element_text(angle = 20, hjust = 0.5)) 
+
+
+
