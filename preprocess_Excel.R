@@ -9,7 +9,7 @@ all_sheets = path %>%
   map(read_excel, path = path)
 
 sheet_list = excel_sheets(path)[-1:-8]  # pick particular sheets
-phase1_list = sheet_list[1:14][-3]
+phase1_list = sheet_list[1:14][-3][-2] # remove user 2 and 3
 phase2_list = sheet_list[15:length(sheet_list)]
 
 merged_df_1 = tibble()
