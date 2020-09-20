@@ -75,7 +75,7 @@ count_predno_2 = rbind(data.frame(USER,IFPRED,percent),count_predno_2)
 
 predint_both = data.frame(Group = c('P', 'S'), 
                           percentage = c(mean(count_predint_1$percent),mean(count_predint_2$percent)),
-                          CI = c(sd(count_predint_1$percent)*1.96/sqrt(12))
+                          CI = c(sd(count_predint_1$percent)*1.96/sqrt(12),sd(count_predint_2$percent)*1.96/sqrt(12))
                           )
 
 ggplot(data = predint_both, aes(x=Group, y=percentage))+
@@ -93,7 +93,7 @@ ggplot(data = predint_both, aes(x=Group, y=percentage))+
 
 predext_both = data.frame(Group = c('P', 'S'), 
                           percentage = c(mean(count_predext_1$percent),mean(count_predext_2$percent)),
-                          CI = c(sd(count_predext_1$percent)*1.96/sqrt(12))
+                          CI = c(sd(count_predext_1$percent)*1.96/sqrt(12),sd(count_predext_2$percent)*1.96/sqrt(12))
                           )
 
 ggplot(data = predext_both, aes(x=Group, y=percentage))+
@@ -111,7 +111,7 @@ ggplot(data = predext_both, aes(x=Group, y=percentage))+
 
 predno_both = data.frame(Group = c('P', 'S'), 
                          percentage = c(mean(count_predno_1$percent),mean(count_predno_2$percent)),
-                         CI = c(sd(count_predno_1$percent)*1.96/sqrt(12))
+                         CI = c(sd(count_predno_1$percent)*1.96/sqrt(12),sd(count_predno_2$percent)*1.96/sqrt(12))
                          )
 
 ggplot(data = predno_both, aes(x=Group, y=percentage))+
