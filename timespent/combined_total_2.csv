@@ -1,0 +1,832 @@
+User,Chart,mode ,timespent,dataset
+1,scatter,predict,47,Admission
+1,scatter,see data,25,Admission
+1,scatter,predict,43,Admission
+1,scatter,see data,59,Admission
+1,parallel,see data,22,Admission
+1,scatter,predict,34,Admission
+1,scatter,see data,121,Admission
+1,scatter,predict,18,Admission
+1,scatter,see data,98,Admission
+1,scatter,predict,22,Admission
+1,scatter,see data,66,Admission
+1,bar,predict,19,Admission
+1,bar,see data,120,Admission
+1,scatter,predict,30,Admission
+1,scatter,see data,192,Admission
+1,scatter,predict,12,Admission
+1,scatter,see data,50,Admission
+1,bar,predict,21,Music
+1,bar,see data,44,Music
+1,line,predict,32,Music
+1,line,see data,56,Music
+1,scatter,predict,63,Music
+1,scatter,see data,71,Music
+1,scatter,predict,9,Music
+1,scatter,see data,56,Music
+1,scatter,predict,10,Music
+1,scatter,see data,162,Music
+1,scatter,predict,2,Music
+1,scatter,see data,286,Music
+1,scatter,predict,57,Music
+1,scatter,see data,89,Music
+1,bar,predict,40,Music
+1,bar,see data,183,Music
+1,scatter,predict,22,Music
+1,scatter,see data,222,Music
+1,bar,predict,10,Music
+1,bar,see data,38,Music
+1,scatter,predict,24,Music
+1,scatter,see data,47,Music
+1,line,predict,22,Music
+1,line,see data,53,Music
+1,line,predict,9,Music
+1,line,see data,62,Music
+1,line,predict,7,Music
+1,line,see data,29,Music
+1,scatter,predict,2,Music
+1,scatter,see data,13,Music
+2,scatter,predict,11,Admission
+2,scatter,see data,21,Admission
+2,scatter,predict,3,Admission
+2,scatter,see data,26,Admission
+2,scatter,predict,20,Admission
+2,scatter,see data,28,Admission
+2,histogram,predict,14,Admission
+2,histogram,see data,27,Admission
+2,histogram,predict,21,Admission
+2,histogram,see data,52,Admission
+2,scatter,predict,14,Admission
+2,scatter,see data,173,Admission
+2,scatter,predict,18,Admission
+2,scatter,see data,42,Admission
+2,scatter,predict,2,Admission
+2,scatter,see data,25,Admission
+2,bar,predict,12,Admission
+2,bar,see data,17,Admission
+2,bar,predict,2,Admission
+2,bar,see data,12,Admission
+2,scatter,predict,23,Admission
+2,scatter,see data,42,Admission
+2,scatter,predict,63,Admission
+2,scatter,see data,77,Admission
+2,bar,predict,25,Admission
+2,bar,see data,43,Admission
+2,bar,predict,29,Admission
+2,bar,see data,26,Admission
+2,bar,predict,25,Admission
+2,bar,see data,54,Admission
+2,bar,predict,18,Music
+2,bar,see data,25,Music
+2,bar,predict,4,Music
+2,bar,see data,12,Music
+2,scatter,predict,33,Music
+2,scatter,see data,25,Music
+2,scatter,predict,26,Music
+2,scatter,see data,24,Music
+2,line,see data,133,Music
+2,scatter,predict,59,Music
+2,scatter,see data,39,Music
+2,scatter,predict,24,Music
+2,scatter,see data,30,Music
+2,scatter,predict,27,Music
+2,scatter,see data,58,Music
+2,scatter,predict,23,Music
+2,scatter,see data,27,Music
+2,scatter,predict,16,Music
+2,scatter,see data,44,Music
+2,scatter,predict,32,Music
+2,scatter,see data,40,Music
+2,scatter,predict,17,Music
+2,scatter,see data,20,Music
+2,histogram,predict,57,Music
+2,histogram,see data,35,Music
+2,scatter,predict,15,Music
+2,scatter,see data,42,Music
+2,scatter,predict,12,Music
+2,scatter,see data,52,Music
+2,bar,predict,25,Music
+2,bar,see data,25,Music
+2,scatter,predict,22,Music
+2,scatter,see data,240,Music
+3,,predict,48,Admission
+3,,see data,93,Admission
+3,,predict,25,Admission
+3,,see data,43,Admission
+3,,predict,10,Admission
+3,,see data,76,Admission
+3,,brushing,156,Admission
+3,,see data,111,Admission
+3,,predict,58,Admission
+3,,see data,80,Admission
+3,,predict,48,Admission
+3,,see data,37,Admission
+3,,predict,54,Admission
+3,,see data,45,Admission
+3,,predict,53,Admission
+3,,see data,84,Admission
+3,,brushing,34,Admission
+3,,predict,13,Admission
+3,,see data,11,Admission
+3,,brushing,29,Admission
+3,,predict,64,Admission
+3,,see data,10,Admission
+3,,brushing,229,Admission
+3,,predict,8,Admission
+3,,see data,285,Admission
+3,,predict,46,Admission
+3,,see data,11,Admission
+3,,predict,39,Admission
+3,,see data,17,Admission
+3,,brushing,281,Admission
+3,,see data,35,Admission
+3,,brushing,233,Admission
+3,,brushing,59,Admission
+3,,brushing,106,Admission
+3,,predict,88,Admission
+3,,see data,159,Admission
+3,,predict,36,Admission
+3,,see data,1,Admission
+3,,brushing,156,Admission
+3,,predict,21,Music
+3,,see data,53,Music
+3,,predict,27,Music
+3,,brushing,58,Music
+3,,predict,24,Music
+3,,see data,11,Music
+3,,predict,20,Music
+3,,see data,33,Music
+3,,predict,14,Music
+3,,see data,30,Music
+3,,predict,29,Music
+3,,see data,11,Music
+3,,predict,15,Music
+3,,see data,20,Music
+3,,predict,17,Music
+3,,see data,2,Music
+3,,brushing,46,Music
+3,,predict,27,Music
+3,,see data,38,Music
+3,,predict,12,Music
+3,,see data,4,Music
+3,,brushing,26,Music
+3,,brushing,117,Music
+3,,predict,3,Music
+3,,see data,10,Music
+3,,brushing,66,Music
+3,,predict,8,Music
+3,,see data,7,Music
+3,,brushing,178,Music
+3,,predict,3,Music
+3,,see data,4,Music
+3,,brushing,45,Music
+3,,predict,4,Music
+3,,see data,4,Music
+3,,brushing,15,Music
+3,,predict,7,Music
+3,,see data,8,Music
+3,,brushing,515,Music
+3,,brushing,67,Music
+4,,predict,12,Admission
+4,,see data,83,Admission
+4,,predict,39,Admission
+4,,see data,19,Admission
+4,,predict,49,Admission
+4,,see data,48,Admission
+4,,predict,41,Admission
+4,,see data,12,Admission
+4,,see data,2,Admission
+4,,brushing,9,Admission
+4,,brushing,52,Admission
+4,,see data,10,Admission
+4,,see data,13,Admission
+4,,see data,2,Admission
+4,,brushing,45,Admission
+4,,see data,69,Admission
+4,,predict,24,Admission
+4,,see data,10,Admission
+4,,brushing,153,Admission
+4,,see data,41,Admission
+4,,see data,33,Admission
+4,,brushing,61,Admission
+4,,see data,26,Admission
+4,,see data,22,Admission
+4,,see data,11,Music
+4,,brushing,177,Music
+4,,brushing,33,Music
+4,,see data,22,Music
+4,,brushing,11,Music
+4,,see data,1,Music
+4,,see data,14,Music
+4,,brushing,13,Music
+4,,brushing,7,Music
+4,,see data,1,Music
+4,,see data,3,Music
+4,,brushing,70,Music
+4,,see data,11,Music
+4,,brushing,17,Music
+4,,see data,1,Music
+4,,brushing,22,Music
+4,,see data,1,Music
+4,,brushing,32,Music
+4,,see data,15,Music
+4,,see data,5,Music
+4,,see data,11,Music
+4,,brushing,190,Music
+4,,see data,23,Music
+4,,brushing,39,Music
+4,,see data,22,Music
+4,,see data,46,Music
+4,,see data,17,Music
+4,,see data,19,Music
+4,,brushing,27,Music
+4,,brushing,13,Music
+5,,predict,10,Admission
+5,,see data,9,Admission
+5,,brushing,278,Admission
+5,,predict,20,Admission
+5,,see data,9,Admission
+5,,brushing,100,Admission
+5,,predict,96,Admission
+5,,see data,183,Admission
+5,,predict,24,Admission
+5,,see data,9,Admission
+5,,brushing,249,Admission
+5,,predict,14,Admission
+5,,see data,35,Admission
+5,,see data,69,Admission
+5,,brushing,184,Admission
+5,,predict,5,Admission
+5,,see data,10,Admission
+5,,brushing,108,Admission
+5,,predict,60,Music
+5,,predict,10,Music
+5,,see data,137,Music
+5,,brushing,165,Music
+5,,predict,4,Music
+5,,see data,68,Music
+5,,predict,56,Music
+5,,see data,9,Music
+5,,brushing,137,Music
+5,,predict,56,Music
+5,,see data,94,Music
+5,,predict,103,Music
+5,,see data,8,Music
+5,,brushing,37,Music
+5,,predict,37,Music
+5,,see data,37,Music
+5,,predict,72,Music
+5,,see data,61,Music
+5,,predict,21,Music
+5,,see data,11,Music
+5,,predict,32,Music
+5,,see data,5,Music
+5,,brushing,38,Music
+6,,predict,22,Admission
+6,,see data,21,Admission
+6,,predict,36,Admission
+6,,see data,24,Admission
+6,,brushing,19,Admission
+6,,predict,24,Admission
+6,,see data,28,Admission
+6,,predict,32,Admission
+6,,see data,11,Admission
+6,,see data,38,Admission
+6,,brushing,12,Admission
+6,,predict,47,Admission
+6,,see data,16,Admission
+6,,brushing,42,Admission
+6,,predict,42,Admission
+6,,see data,30,Admission
+6,,predict,50,Admission
+6,,see data,5,Admission
+6,,brushing,83,Admission
+6,,brushing,84,Admission
+6,,predict,31,Admission
+6,,see data,25,Admission
+6,,predict,52,Admission
+6,,see data,44,Admission
+6,,predict,51,Admission
+6,,see data,20,Admission
+6,,predict,94,Admission
+6,,see data,17,Admission
+6,,brushing,119,Admission
+6,,predict,19,Music
+6,,see data,23,Music
+6,,see data,23,Music
+6,,see data,3,Music
+6,,brushing,68,Music
+6,,predict,36,Music
+6,,see data,43,Music
+6,,predict,26,Music
+6,,see data,34,Music
+6,,predict,40,Music
+6,,see data,11,Music
+6,,predict,49,Music
+6,,see data,25,Music
+6,,see data,46,Music
+6,,brushing,11,Music
+6,,see data,20,Music
+6,,brushing,14,Music
+6,,brushing,45,Music
+6,,predict,11,Music
+6,,see data,2,Music
+6,,brushing,51,Music
+6,,brushing,12,Music
+6,,see data,23,Music
+6,,predict,30,Music
+6,,see data,13,Music
+6,,brushing,24,Music
+6,,brushing,56,Music
+6,,see data,1,Music
+6,,brushing,14,Music
+7,,predict,11,Admission
+7,,see data,30,Admission
+7,,predict,88,Admission
+7,,see data,60,Admission
+7,,see data,25,Admission
+7,,predict,83,Admission
+7,,see data,81,Admission
+7,,predict,15,Admission
+7,,see data,91,Admission
+7,,see data,4,Admission
+7,,brushing,75,Admission
+7,,predict,25,Admission
+7,,see data,91,Admission
+7,,predict,14,Admission
+7,,see data,6,Admission
+7,,predict,14,Admission
+7,,see data,23,Admission
+7,,predict,25,Admission
+7,,see data,95,Admission
+7,,predict,55,Admission
+7,,see data,4,Admission
+7,,brushing,198,Admission
+7,,predict,18,Admission
+7,,see data,2,Admission
+7,,brushing,639,Admission
+7,,predict,8,Music
+7,,see data,17,Music
+7,,predict,15,Music
+7,,see data,149,Music
+7,,brushing,24,Music
+7,,see data,27,Music
+7,,brushing,176,Music
+7,,predict,2,Music
+7,,see data,18,Music
+7,,predict,5,Music
+7,,see data,41,Music
+7,,predict,40,Music
+7,,see data,6,Music
+7,,brushing,87,Music
+7,,see data,8,Music
+7,,brushing,80,Music
+7,,predict,15,Music
+7,,see data,13,Music
+7,,brushing,58,Music
+7,,see data,14,Music
+7,,brushing,177,Music
+7,,see data,15,Music
+7,,brushing,49,Music
+7,,predict,5,Music
+7,,see data,9,Music
+7,,brushing,8,Music
+7,,predict,26,Music
+7,,see data,4,Music
+7,,brushing,99,Music
+7,,predict,9,Music
+7,,see data,4,Music
+7,,brushing,10,Music
+7,,brushing,22,Music
+7,,predict,14,Music
+7,,see data,14,Music
+7,,brushing,55,Music
+7,,predict,10,Music
+7,,see data,3,Music
+7,,brushing,78,Music
+7,,predict,23,Music
+7,,see data,12,Music
+7,,brushing,63,Music
+8,,predict,25,Admission
+8,,see data,27,Admission
+8,,predict,4,Admission
+8,,see data,73,Admission
+8,,predict,42,Admission
+8,,see data,32,Admission
+8,,predict,5,Admission
+8,,see data,57,Admission
+8,,predict,10,Admission
+8,,see data,30,Admission
+8,,predict,5,Admission
+8,,see data,18,Admission
+8,,predict,12,Admission
+8,,see data,5,Admission
+8,,predict,29,Admission
+8,,see data,20,Admission
+8,,predict,28,Admission
+8,,see data,7,Admission
+8,,brushing,171,Admission
+8,,predict,24,Admission
+8,,see data,3,Admission
+8,,brushing,34,Admission
+8,,predict,5,Admission
+8,,see data,2,Admission
+8,,brushing,33,Admission
+8,,predict,14,Admission
+8,,see data,3,Admission
+8,,brushing,33,Admission
+8,,predict,6,Admission
+8,,see data,5,Admission
+8,,brushing,21,Admission
+8,,predict,9,Admission
+8,,see data,2,Admission
+8,,brushing,37,Admission
+8,,predict,4,Admission
+8,,see data,16,Admission
+8,,see data,9,Admission
+8,,see data,7,Admission
+8,,see data,5,Admission
+8,,see data,33,Admission
+8,,predict,1,Admission
+8,,see data,23,Admission
+8,,predict,7,Admission
+8,,see data,26,Admission
+8,,brushing,162,Admission
+8,,predict,9,Admission
+8,,see data,3,Admission
+8,,brushing,104,Admission
+8,,brushing,34,Admission
+8,,brushing,15,Admission
+8,,brushing,59,Admission
+8,,predict,16,Music
+8,,see data,8,Music
+8,,predict,13,Music
+8,,see data,21,Music
+8,,predict,8,Music
+8,,see data,9,Music
+8,,predict,5,Music
+8,,see data,11,Music
+8,,predict,4,Music
+8,,see data,17,Music
+8,,predict,6,Music
+8,,see data,13,Music
+8,,predict,7,Music
+8,,see data,8,Music
+8,,predict,19,Music
+8,,see data,11,Music
+8,,predict,5,Music
+8,,see data,11,Music
+8,,predict,20,Music
+8,,see data,13,Music
+8,,predict,10,Music
+8,,see data,3,Music
+8,,brushing,25,Music
+8,,predict,10,Music
+8,,see data,17,Music
+8,,predict,15,Music
+8,,see data,27,Music
+8,,predict,11,Music
+8,,see data,4,Music
+8,,brushing,48,Music
+8,,see data,10,Music
+8,,brushing,15,Music
+8,,see data,11,Music
+8,,brushing,36,Music
+8,,see data,1,Music
+8,,brushing,18,Music
+8,,see data,2,Music
+8,,brushing,24,Music
+8,,see data,2,Music
+8,,brushing,17,Music
+8,,see data,3,Music
+8,,brushing,13,Music
+8,,see data,2,Music
+8,,brushing,16,Music
+8,,see data,3,Music
+8,,brushing,29,Music
+8,,see data,4,Music
+8,,brushing,29,Music
+8,,see data,13,Music
+8,,brushing,79,Music
+8,,brushing,6,Music
+8,,brushing,48,Music
+8,,predict,7,Music
+8,,see data,27,Music
+8,,predict,11,Music
+8,,see data,15,Music
+8,,predict,18,Music
+8,,see data,35,Music
+8,,predict,6,Music
+8,,see data,13,Music
+8,,predict,4,Music
+8,,see data,9,Music
+8,,predict,7,Music
+8,,see data,9,Music
+10,,predict,71,Admission
+10,,see data,27,Admission
+10,,predict,49,Admission
+10,,see data,183,Admission
+10,,see data,49,Admission
+10,,see data,90,Admission
+10,,see data,100,Admission
+10,,predict,12,Admission
+10,,see data,12,Admission
+10,,predict,14,Admission
+10,,see data,25,Admission
+10,,see data,19,Admission
+10,,predict,9,Admission
+10,,see data,6,Admission
+10,,predict,2,Admission
+10,,see data,69,Admission
+10,,predict,27,Admission
+10,,see data,7,Admission
+10,,predict,35,Admission
+10,,see data,60,Admission
+10,,predict,10,Music
+10,,see data,40,Music
+10,,predict,30,Music
+10,,see data,16,Music
+10,,predict,20,Music
+10,,see data,33,Music
+10,,predict,12,Music
+10,,see data,32,Music
+10,,predict,24,Music
+10,,see data,18,Music
+10,,predict,44,Music
+10,,see data,2,Music
+10,,brushing,23,Music
+10,,predict,27,Music
+10,,see data,25,Music
+10,,predict,20,Music
+10,,see data,32,Music
+10,,brushing,17,Music
+10,,see data,14,Music
+10,,brushing,291,Music
+10,,predict,22,Music
+10,,see data,23,Music
+10,,brushing,32,Music
+10,,predict,15,Music
+10,,see data,8,Music
+10,,brushing,325,Music
+11,,predict,29,Admission
+11,,see data,41,Admission
+11,,predict,50,Admission
+11,,see data,21,Admission
+11,,brushing,122,Admission
+11,,predict,169,Admission
+11,,see data,5,Admission
+11,,brushing,51,Admission
+11,,predict,108,Admission
+11,,see data,39,Admission
+11,,predict,119,Admission
+11,,see data,3,Admission
+11,,brushing,169,Admission
+11,,predict,67,Admission
+11,,see data,169,Admission
+11,,predict,67,Admission
+11,,see data,8,Admission
+11,,brushing,133,Admission
+11,,predict,74,Music
+11,,see data,82,Music
+11,,predict,59,Music
+11,,see data,20,Music
+11,,predict,71,Music
+11,,see data,55,Music
+11,,predict,115,Music
+11,,see data,58,Music
+11,,brushing,101,Music
+11,,predict,74,Music
+11,,see data,51,Music
+11,,predict,95,Music
+11,,see data,56,Music
+11,,predict,20,Music
+11,,see data,20,Music
+11,,predict,40,Music
+11,,see data,32,Music
+11,,predict,27,Music
+11,,see data,5,Music
+11,,brushing,116,Music
+11,,predict,36,Music
+11,,see data,10,Music
+11,,predict,37,Music
+11,,see data,5,Music
+11,,brushing,83,Music
+11,,predict,34,Music
+11,,see data,57,Music
+11,,predict,27,Music
+11,,see data,69,Music
+11,,predict,36,Music
+11,,see data,5,Music
+11,,brushing,37,Music
+12,,predict,22,Admission
+12,,see data,5,Admission
+12,,see data,9,Admission
+12,,predict,22,Admission
+12,,see data,38,Admission
+12,,predict,14,Admission
+12,,see data,5,Admission
+12,,predict,29,Admission
+12,,see data,6,Admission
+12,,brushing,14,Admission
+12,,see data,25,Admission
+12,,brushing,11,Admission
+12,,predict,14,Admission
+12,,see data,27,Admission
+12,,see data,29,Admission
+12,,brushing,3,Admission
+12,,predict,14,Admission
+12,,see data,6,Admission
+12,,predict,1,Admission
+12,,see data,13,Admission
+12,,predict,19,Admission
+12,,see data,15,Admission
+12,,see data,2,Admission
+12,,brushing,110,Admission
+12,,see data,81,Admission
+12,,predict,6,Admission
+12,,see data,27,Admission
+12,,see data,1,Admission
+12,,brushing,17,Admission
+12,,predict,26,Admission
+12,,see data,3,Admission
+12,,brushing,47,Admission
+12,,see data,4,Admission
+12,,brushing,12,Admission
+12,,see data,53,Admission
+12,,see data,72,Music
+12,,predict,7,Music
+12,,see data,5,Music
+12,,predict,6,Music
+12,,see data,52,Music
+12,,predict,25,Music
+12,,see data,10,Music
+12,,predict,24,Music
+12,,see data,10,Music
+12,,predict,10,Music
+12,,see data,16,Music
+12,,predict,5,Music
+12,,see data,13,Music
+12,,predict,7,Music
+12,,see data,7,Music
+12,,see data,18,Music
+12,,see data,2,Music
+12,,brushing,30,Music
+12,,see data,2,Music
+12,,predict,7,Music
+12,,see data,1,Music
+12,,brushing,12,Music
+12,,predict,9,Music
+12,,see data,11,Music
+12,,brushing,13,Music
+12,,see data,24,Music
+12,,predict,10,Music
+12,,see data,22,Music
+12,,see data,21,Music
+12,,see data,30,Music
+12,,see data,13,Music
+12,,predict,3,Music
+12,,see data,17,Music
+12,,predict,6,Music
+12,,see data,40,Music
+12,,predict,7,Music
+12,,see data,8,Music
+12,,predict,16,Music
+12,,see data,9,Music
+12,,see data,17,Music
+12,,see data,10,Music
+12,,see data,4,Music
+12,,brushing,22,Music
+12,,predict,10,Music
+12,,see data,7,Music
+12,,see data,3,Music
+12,,predict,7,Music
+12,,see data,9,Music
+12,,see data,1,Music
+12,,predict,1,Music
+12,,see data,2,Music
+12,,predict,2,Music
+12,,see data,4,Music
+12,,predict,13,Music
+12,,see data,6,Music
+12,,brushing,14,Music
+12,,see data,4,Music
+12,,predict,17,Music
+12,,see data,23,Music
+12,,see data,10,Music
+12,,see data,6,Music
+12,,brushing,105,Music
+12,,predict,7,Music
+12,,see data,12,Music
+13,,see data,28,Admission
+13,,see data,10,Admission
+13,,see data,11,Admission
+13,,see data,10,Admission
+13,,see data,6,Admission
+13,,see data,7,Admission
+13,,predict,4,Admission
+13,,see data,5,Admission
+13,,see data,48,Admission
+13,,see data,10,Admission
+13,,predict,17,Admission
+13,,see data,7,Admission
+13,,see data,7,Admission
+13,,see data,6,Admission
+13,,predict,20,Admission
+13,,see data,25,Admission
+13,,see data,15,Admission
+13,,see data,10,Admission
+13,,see data,33,Admission
+13,,see data,6,Admission
+13,,brushing,36,Admission
+13,,see data,4,Admission
+13,,brushing,169,Admission
+13,,see data,15,Admission
+13,,predict,7,Admission
+13,,see data,8,Admission
+13,,predict,27,Admission
+13,,see data,43,Admission
+13,,brushing,76,Admission
+13,,see data,8,Admission
+13,,see data,2,Admission
+13,,brushing,38,Admission
+13,,brushing,11,Admission
+13,,see data,2,Admission
+13,,brushing,86,Admission
+13,,predict,18,Music
+13,,see data,11,Music
+13,,predict,6,Music
+13,,see data,13,Music
+13,,predict,6,Music
+13,,see data,24,Music
+13,,see data,13,Music
+13,,see data,28,Music
+13,,predict,17,Music
+13,,see data,12,Music
+13,,brushing,70,Music
+13,,predict,9,Music
+13,,see data,3,Music
+13,,brushing,18,Music
+13,,see data,8,Music
+13,,brushing,28,Music
+13,,see data,7,Music
+13,,predict,10,Music
+13,,see data,1,Music
+13,,brushing,62,Music
+13,,brushing,220,Music
+13,,predict,36,Music
+13,,see data,1,Music
+13,,brushing,72,Music
+13,,predict,11,Music
+13,,see data,15,Music
+13,,brushing,29,Music
+13,,brushing,107,Music
+13,,brushing,69,Music
+13,,see data,22,Music
+13,,predict,19,Music
+13,,see data,10,Music
+13,,brushing,37,Music
+13,,predict,3,Music
+13,,see data,3,Music
+13,,brushing,18,Music
+13,,see data,3,Music
+13,,brushing,17,Music
+13,,see data,2,Music
+13,,brushing,52,Music
+13,,brushing,34,Music
+13,,brushing,3,Music
+13,,see data,4,Music
+13,,brushing,18,Music
+13,,see data,10,Music
+13,,see data,1,Music
+13,,see data,3,Music
+13,,brushing,7,Music
+13,,brushing,62,Music
+13,,brushing,69,Music
+13,,see data,14,Music
+13,,see data,10,Music
+13,,brushing,70,Music
+13,,see data,7,Music
+13,,see data,1,Music
+13,,see data,2,Music
+13,,brushing,74,Music
+13,,predict,9,Music
+13,,see data,9,Music
+13,,brushing,55,Music
+13,,see data,5,Music
+13,,brushing,83,Music
+13,,predict,33,Music
+13,,see data,1,Music
+13,,brushing,13,Music
+13,,see data,4,Music
+13,,see data,3,Music
+13,,brushing,40,Music
+13,,see data,11,Music
+13,,see data,1,Music
+13,,brushing,8,Music
+13,,see data,11,Music
+13,,brushing,10,Music
+13,,brushing,7,Music
+13,,predict,12,Music
+13,,see data,5,Music
+13,,brushing,36,Music
+13,,brushing,4,Music

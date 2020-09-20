@@ -1,0 +1,530 @@
+﻿User,mode ,timespent
+1,predict,115
+1,see data,19
+1,predict,58
+1,see data,6
+1,predict,66
+1,see data,10
+1,predict,45
+1,see data,10
+1,predict,83
+1,see data,40
+1,predict,170
+1,see data,106
+1,predict,23
+1,see data,9
+1,predict,78
+1,see data,22
+1,brushing,114
+1,predict,35
+1,see data,25
+1,predict,63
+1,see data,11
+1,predict,17
+1,see data,8
+1,predict,43
+1,see data,11
+1,predict,63
+1,see data,22
+1,predict,37
+1,see data,26
+1,predict,59
+1,see data,14
+1,predict,42
+1,see data,29
+1,predict,56
+1,see data,32
+1,predict,37
+1,see data,28
+1,predict,40
+1,see data,13
+1,predict,18
+1,see data,10
+1,predict,27
+1,see data,23
+1,predict,25
+1,see data,22
+4,predict,56
+4,see data,10
+4,predict,45
+4,see data,46
+4,predict,52
+4,see data,9
+4,predict,32
+4,see data,19
+4,predict,68
+4,see data,21
+4,predict,95
+4,see data,18
+4,predict,126
+4,see data,144
+4,predict,37
+4,see data,14
+4,predict,46
+4,see data,60
+4,predict,40
+4,see data,12
+4,predict,75
+4,see data,25
+4,predict,54
+4,see data,12
+4,predict,63
+4,see data,33
+4,predict,53
+4,see data,43
+4,predict,30
+4,see data,17
+4,predict,43
+4,see data,19
+4,predict,48
+4,see data,11
+4,predict,66
+4,see data,7
+4,predict,31
+4,see data,5
+4,predict,36
+4,see data,34
+4,predict,35
+4,see data,14
+4,predict,39
+4,see data,14
+5,predict,85
+5,see data,26
+5,predict,80
+5,see data,13
+5,predict,40
+5,see data,34
+5,predict,20
+5,see data,75
+5,predict,27
+5,see data,56
+5,predict,26
+5,see data,13
+5,predict,54
+5,see data,50
+5,predict,64
+5,see data,131
+5,predict,154
+5,see data,21
+5,predict,175
+5,see data,12
+5,predict,27
+5,see data,30
+5,predict,36
+5,see data,21
+5,brushing,11
+5,predict,13
+5,see data,5
+5,brushing,19
+5,predict,17
+5,see data,15
+5,predict,15
+5,see data,35
+5,predict,29
+5,see data,6
+5,predict,21
+5,see data,32
+5,predict,42
+5,see data,41
+5,predict,8
+5,see data,11
+5,predict,28
+5,see data,11
+5,predict,81
+5,see data,8
+5,predict,15
+5,see data,39
+5,predict,19
+5,see data,24
+5,brushing,220
+5,brushing,76
+5,predict,8
+5,see data,15
+5,predict,23
+5,see data,60
+6,predict,23
+6,see data,16
+6,predict,40
+6,see data,28
+6,predict,76
+6,see data,40
+6,predict,15
+6,see data,25
+6,predict,92
+6,see data,23
+6,see data,3
+6,predict,5
+6,see data,36
+6,predict,9
+6,see data ,21
+6,brushing,124
+6,predict,10
+6,see data ,19
+6,brushing,159
+6,predict,23
+6,see data ,17
+6,predict,25
+6,see data,17
+6,predict,19
+6,see data,7
+6,predict,9
+6,see data,6
+6,predict,8
+6,see data,3
+6,predict,15
+6,see data,8
+6,predict,27
+6,see data,5
+6,predict,9
+6,see data,4
+6,predict,33
+6,see data,8
+6,predict,32
+6,see data,15
+6,predict,7
+6,see data,12
+6,predict,22
+6,see data,15
+6,predict,9
+6,see data,32
+6,predict,12
+6,see data,60
+6,predict,53
+6,see data,21
+6,predict,139
+6,see data,69
+6,predict,29
+6,see data,38
+7,predict,20
+7,see data,24
+7,predict,37
+7,see data,24
+7,predict,69
+7,see data,18
+7,predict,17
+7,see data,31
+7,predict,121
+7,see data,20
+7,predict,123
+7,see data,14
+7,predict,47
+7,see data,41
+7,predict,88
+7,see data,58
+7,predict,67
+7,see data,6
+7,predict,16
+7,see data,40
+7,predict,72
+7,see data,25
+7,brushing,68
+7,predict,95
+7,see data,73
+7,predict,37
+7,see data,8
+7,predict,9
+7,see data,31
+7,predict,11
+7,see data,18
+7,predict,18
+7,see data,56
+7,predict,8
+7,see data,137
+7,predict,12
+7,see data,51
+7,predict,24
+7,see data,16
+7,predict,30
+7,see data,26
+7,predict,12
+7,see data,41
+7,predict,20
+7,see data,7
+7,brushing,85
+7,predict,17
+7,see data,5
+7,brushing,36
+7,predict,13
+7,see data,6
+7,brushing,22
+8,predict,19
+8,see data,11
+8,predict,13
+8,see data,6
+8,predict,49
+8,see data,12
+8,predict,49
+8,see data,12
+8,brushing,27
+8,predict,22
+8,see data,30
+8,predict,30
+8,see data,4
+8,brushing,47
+8,predict,18
+8,see data,5
+8,brushing,40
+8,predict,11
+8,see data,28
+8,predict,10
+8,see data,31
+8,predict,12
+8,see data,12
+8,brushing,18
+8,predict,35
+8,see data,21
+8,predict,64
+8,see data,17
+8,predict,20
+8,see data,14
+8,predict,24
+8,see data,12
+8,predict,8
+8,see data,15
+8,predict,6
+8,see data,7
+8,predict,27
+8,see data,21
+8,brushing,229
+8,predict,18
+8,see data,67
+8,predict,9
+8,see data,24
+8,predict,16
+8,see data,44
+8,predict,10
+8,see data,10
+8,predict,9
+8,see data,30
+8,brushing,51
+9,predict,110
+9,see data,86
+9,predict,77
+9,see data,133
+9,predict,59
+9,see data,44
+9,brushing,70
+9,predict,41
+9,see data,54
+9,predict,94
+9,see data,143
+9,predict,83
+9,see data,60
+9,predict,41
+9,see data,14
+9,predict,30
+9,see data,15
+9,predict,154
+9,see data,66
+9,predict,102
+9,see data,54
+9,predict,44
+9,see data,41
+9,predict,32
+9,see data,85
+9,predict,22
+9,see data,12
+9,predict,42
+9,see data,68
+10,predict,11
+10,see data,18
+10,predict,16
+10,see data,47
+10,predict,29
+10,see data,11
+10,predict,28
+10,see data,82
+10,predict,34
+10,see data,135
+10,predict,29
+10,see data,44
+10,predict,13
+10,see data,41
+10,predict,38
+10,see data,28
+10,predict,28
+10,see data,24
+10,see data,24
+10,brushing,120
+10,predict,23
+10,see data,31
+10,predict,80
+10,see data,20
+10,predict,38
+10,see data,104
+10,predict,49
+10,see data,44
+10,predict,31
+10,see data,102
+10,predict,49
+10,see data,30
+10,predict,20
+10,see data,84
+10,predict,47
+10,see data,134
+10,predict,69
+10,see data,45
+10,predict,42
+10,see data,148
+10,predict,33
+10,see data,22
+11,predict,14
+11,see data,9
+11,predict,14
+11,see data,26
+11,predict,14
+11,see data,30
+11,predict,19
+11,see data,25
+11,predict,10
+11,see data,17
+11,see data,38
+11,see data,48
+11,predict,10
+11,see data,29
+11,predict,22
+11,see data,20
+11,predict,39
+11,see data,3
+11,predict,27
+11,see data,20
+11,predict,15
+11,see data,12
+11,predict,41
+11,see data,16
+11,predict,43
+11,see data,12
+11,predict,30
+11,see data,30
+11,predict,34
+11,see data,11
+11,see data,78
+11,predict,5
+11,see data,19
+11,predict,44
+11,see data,40
+11,predict,23
+11,see data,23
+12,predict,123
+12,see data,59
+12,see data,21
+12,predict,52
+12,see data,7
+12,predict,52
+12,see data,23
+12,predict,27
+12,see data,31
+12,predict,19
+12,see data,34
+12,predict,12
+12,see data,12
+12,predict,17
+12,see data,12
+12,see data,9
+12,brushing,228
+12,see data,15
+12,brushing,10
+12,predict,22
+12,see data,103
+12,predict,98
+12,see data,81
+12,predict,14
+12,see data,10
+12,see data,21
+12,predict,79
+12,see data,33
+12,see data,13
+12,predict,19
+12,see data,19
+12,see data,24
+12,see data,7
+12,see data,5
+12,see data,2
+12,see data,21
+12,see data,10
+12,see data,14
+12,see data,4
+12,predict,25
+12,see data,8
+12,predict,26
+12,see data,8
+12,predict,22
+12,see data,30
+12,predict,61
+12,see data,15
+12,predict,46
+12,see data,31
+12,predict,10
+12,see data,10
+12,predict,19
+12,see data,28
+12,predict,13
+12,see data,5
+12,predict,27
+12,see data,6
+12,see data,2
+12,predict,66
+12,see data,25
+12,predict,99
+12,see data,18
+12,see data,3
+13,predict,39
+13,see data,48
+13,predict,85
+13,see data,89
+13,predict,4
+13,see data,51
+13,predict,32
+13,see data,55
+13,predict,35
+13,see data,77
+13,predict,2
+13,see data,29
+13,predict,35
+13,see data,152
+13,brushing,70
+13,predict,40
+13,see data,43
+13,predict,14
+13,see data,50
+13,predict,40
+13,see data,28
+13,predict,29
+13,see data,73
+13,predict,39
+13,see data,49
+13,predict,67
+13,see data,255
+13,predict,36
+13,see data,201
+13,predict,116
+13,see data,431
+13,predict,86
+13,see data,6
+13,predict,102
+13,see data,81
+13,predict,71
+13,see data,100
+13,predict,44
+13,see data,62
+15,predict,64
+15,see data,56
+15,predict,22
+15,see data,73
+15,predict,24
+15,see data,80
+15,predict,164
+15,see data,47
+15,see data,6
+15,predict,65
+15,see data,110
+15,predict,50
+15,see data,70
+15,predict,30
+15,see data,87
+15,predict,41
+15,see data,104
+15,predict,15
+15,see data,46
+15,predict,26
+15,see data,51
