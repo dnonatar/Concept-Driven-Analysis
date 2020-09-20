@@ -57,6 +57,8 @@ count_by_predmatch_2$Condition = "S"
 
 count_by_predmatch_all = rbind(count_by_predmatch_1,count_by_predmatch_2)
 
+count_by_predmatch_ordered <- factor(count_by_predmatch_all$PREDMATCH, 
+                                levels = c('NOTMATCH','ACCMATCH','MODMATCH','CANTMATCH'))
 
 ggplot(count_by_predmatch_all, aes(x=c("Not Match", "Accurate", "Moderate", "None", "Accurate", "Moderate", "Not Match", "None"), y=normalized_frequency, fill=Condition)) + 
   geom_bar(stat="identity", position=position_dodge(),color="black", width =0.6) +
@@ -71,5 +73,20 @@ ggplot(count_by_predmatch_all, aes(x=c("Not Match", "Accurate", "Moderate", "Non
       axis.text=element_text(size=12))  +
   theme(axis.text.x = element_text(angle = 20, hjust = 0.5)) 
 
+ggplot(count_by_predmatch_all, aes(x=count_by_predmatch_ordered, y=normalized_frequency, fill=Condition)) + 
+  geom_bar(stat="identity", position=position_dodge(0.75),color="black", width =0.75) +
+  geom_errorbar(aes(ymin=normalized_frequency-CI, ymax=normalized_frequency+CI), width=.2, position=position_dodge(0.75)) +
+  scale_fill_manual(values=c("#edb89f","#9fcbed")) +
+  ylab("% of Queries") +
+  xlab("Matching Justification") +
+  theme_minimal() +
+  theme(plot.title = element_text(color="black", size=12, face="bold.italic"),
+        axis.title.x = element_text(color="black", size=14),
+        axis.title.y = element_text(color="black", size=14),
+        axis.text=element_text(size=12))  +
+  theme(axis.text.x = element_text(angle = 0, hjust = 0)) 
 
 
+
+count_by_predmatch_all$low = count_by_predmatch_all$normalized_frequency-count_by_predmatch_all$CI
+count_by_predmatch_all$high = count_by_predmatch_all$normalized_frequency+count_by_predmatch_all$CI
